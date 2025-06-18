@@ -78,8 +78,8 @@
 ###
 <div align="center">
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulAutade2288&theme=radical&hide_border=false)<br/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulAutade2288&theme=radical&hide_border=false"  />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAutade2288&layout=compact&theme=chartreuse-dark" alt="RahulAutade2288" />
+  <img height='180' src="https://github-readme-streak-stats.herokuapp.com/?user=RahulAutade2288&theme=radical&hide_border=false"  />
+  <img height='180' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAutade2288&layout=compact&theme=radical" alt="RahulAutade2288" />
 </div>
 
 
