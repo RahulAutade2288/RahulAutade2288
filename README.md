@@ -19,45 +19,69 @@
 </div>
 
 ###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">
-  I'm Rahul Autade, a seasoned Software Engineer and Senior Manager specializing in payment implementation.<br><br>
-  - 🔭 Leading payment system implementations with a focus on efficiency and scalability.<br>
-  - 📚 Proficient in Python, Java, J2EE, Oracle, SQL, SOA architecture, Web Services (MQ, SOAP), and API development.<br>
-  - ⚡ In my free time, I explore new technologies and contribute to open-source projects.
-</p>
+<hr>
+<h3 align="center">👩‍💻 About Me</h3>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<div align='center'>
+
+🌟 **Sr. Manager - Payment Implementation** 🚀  
+
+> **🛠️ Driving Seamless Payment Solutions!**  
+> `🏦 GPP` SME | `💸 Payment Implementation` | `📜 ISO Migration`  
+> **Certified ScrumMaster®** | `🔄 Configuration` | `🤝 Collaboration`  
+
+💳 **Payments Mastery:**  
+🌐 `📨 SWIFT` | `🏦 Fedwire` | `⚡ RTP` | `🚀 FEDNow` | `🏛️ CHIPS` | `🌍 SEPA` | `🔗 Target2`  
+
+✨ **Innovating Finance:**  
+**Technical precision** + **Strategic vision** in **Payments HUB**, `📊 Requirement Analysis`, & **Fintech solutions**  
+
+🚀 **AI Enthusiast | Payments Leader | Fintech Innovator**  
+
+</div>
+
+
+
+<hr>
+
+<h3 align="center">🛠 Languages and Tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql logo"  />
+<div align="center">
+ 
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=)]()
+[![BPMN2.0](https://img.shields.io/badge/-BPMN2.0-FFA500?style=flat&logo=bpmn&link=)]()
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&link=)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&link=)]()
+
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&link=)]()
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&link=)]()
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&link=)]()
+[![Junit 5](https://img.shields.io/badge/-Junit%205-25A162?style=flat&logo=junit5&link=)]()
+
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&link=)]()
+[![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat&logo=microsoftazure&link=)]()
+[![DataStax](https://img.shields.io/badge/-DataStax-0066CC?style=flat&logo=datastax&link=)]()
+[![Solr](https://img.shields.io/badge/-Solr-D9411E?style=flat&logo=apache&link=)]()
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&link=)]()
+[![KeyCloak](https://img.shields.io/badge/-KeyCloak-000000?style=flat&logo=keycloak&link=)]()
+
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="center">🔥 My Stats</h3>
 
 ###
 <div align="center">
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulAutade2288&theme=radical&hide_border=false)<br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulAutade2288&theme=radical&hide_border=false"  />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAutade2288&layout=compact&theme=chartreuse-dark" alt="RahulAutade2288" />
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RahulAutade2288&theme=react"/>
-
