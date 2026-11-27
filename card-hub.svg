@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="220" viewBox="0 0 620 220"><style>text{font-family:"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="619" height="219" rx="16" fill="#111827" stroke="#1f2937"/>
+<defs><clipPath id="c"><rect width="620" height="220" rx="16"/></clipPath></defs><rect x="0" y="0" width="6" height="220" fill="#10b981" clip-path="url(#c)"/>
+<circle cx="36" cy="40" r="6" fill="#b07219"/><text x="50" y="45" font-size="14" fill="#9ca3af">Java</text>
+<text x="592" y="45" text-anchor="end" font-size="14" fill="#10b981">View repo →</text>
+<text x="28" y="78" font-size="24" font-weight="700" fill="#f9fafb">Payments Modernization Hub</text>
+<text x="28" y="104" font-size="17" fill="#9ca3af">The building blocks of a modern bank payment hub,</text><text x="28" y="128" font-size="17" fill="#9ca3af">from routing and rules to ledger and settlement,</text><text x="28" y="152" font-size="17" fill="#9ca3af">with ISO 20022 schemas.</text>
+<rect x="28" y="176" width="55" height="24" rx="12" fill="#1f2937" stroke="#374151"/><text x="55.5" y="192" text-anchor="middle" font-size="13" fill="#d1d5db">Java</text><rect x="89" y="176" width="110" height="24" rx="12" fill="#1f2937" stroke="#374151"/><text x="144" y="192" text-anchor="middle" font-size="13" fill="#d1d5db">Payment hub</text><rect x="205" y="176" width="94" height="24" rx="12" fill="#1f2937" stroke="#374151"/><text x="252" y="192" text-anchor="middle" font-size="13" fill="#d1d5db">ISO 20022</text>
+</svg>
