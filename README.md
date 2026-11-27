@@ -13,6 +13,8 @@
 
 I've spent **20+ years taking payment platforms live inside tier-1 banks**, including PNC, Bank of America, Citibank and Shinsei Bank. Today I help U.S. banks move off legacy payment systems onto cloud-native ISO 20022 platforms, one rail at a time, with old and new running side by side.
 
+<sub><b>Core expertise:</b> Payments Modernization · ISO 20022 · MT to MX migration · Fedwire · CHIPS · SWIFT gpi · RTP · FedNow · ACH/NACHA · Zelle · Global PAYplus (GPP) · Payment Hub Architecture · Fraud &amp; Sanctions Screening · Real-Time Payments</sub>
+
 <img src="stats.svg" alt="20+ years in bank payments · 4 tier-1 banks · 10+ payment rails · 49,632 wires in one day" width="100%" />
 
 ### What I focus on
@@ -22,15 +24,6 @@ I've spent **20+ years taking payment platforms live inside tier-1 banks**, incl
 ### How an instant payment moves
 
 <img src="flow.svg" alt="A FedNow credit transfer: pacs.008 from debtor bank to FedNow to creditor bank, pacs.002 accept, then pacs.002 settlement confirmations to both banks" width="100%" />
-
-### Open-source projects
-
-<p>
-  <a href="https://github.com/RahulAutade2288/real-time-payment-architecture-orchestration"><img src="card-rtp.svg" width="49%" alt="Real-Time Payment Orchestration" /></a>
-  <a href="https://github.com/RahulAutade2288/payments-modernization-hub"><img src="card-hub.svg" width="49%" alt="Payments Modernization Hub" /></a>
-  <a href="https://github.com/RahulAutade2288/fraud-detection-federated"><img src="card-fraud.svg" width="49%" alt="Federated Fraud Detection" /></a>
-  <a href="https://github.com/RahulAutade2288/digital-payments-system-blueprint"><img src="card-blueprint.svg" width="49%" alt="Digital Payments Blueprint" /></a>
-</p>
 
 ### Research
 
