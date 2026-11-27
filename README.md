@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://rahulautade2288.github.io/">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-autade/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://rahulautade2288.github.io/talks.html">Talks</a> &nbsp;·&nbsp;
-  <a href="mailto:rahulautade2287@gmail.com">Email</a>
+  <a href="https://rahulautade2288.github.io/"><img src="btn-web.svg" height="40" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/rahul-autade/"><img src="btn-in.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://rahulautade2288.github.io/talks.html"><img src="btn-talks.svg" height="40" alt="Talks" /></a>
+  <a href="mailto:rahulautade2287@gmail.com"><img src="btn-mail.svg" height="40" alt="Email" /></a>
 </p>
 
-### About
+<br/>
 
-I've spent 20+ years taking payment platforms live inside tier-1 banks, including PNC, Bank of America, Citibank and Shinsei Bank. Today I help U.S. banks move off legacy payment systems onto cloud-native ISO 20022 platforms, one rail at a time, with old and new running side by side.
+I've spent **20+ years taking payment platforms live inside tier-1 banks**, including PNC, Bank of America, Citibank and Shinsei Bank. Today I help U.S. banks move off legacy payment systems onto cloud-native ISO 20022 platforms, one rail at a time, with old and new running side by side.
 
-<p align="center">
-  <img src="stats.svg" alt="20+ years in bank payments · 4 tier-1 banks · 10+ payment rails · 49,632 wires in one day" width="100%" />
-</p>
+<img src="stats.svg" alt="20+ years in bank payments · 4 tier-1 banks · 10+ payment rails · 49,632 wires in one day" width="100%" />
 
-**What I work on:** ISO 20022 migrations · Global PAYplus (GPP) delivery · payment hub architecture · bank and partner integrations · implementation planning and cutover
+### What I focus on
+
+<img src="focus.svg" alt="ISO 20022 migration · Real-time rails · Payment hub delivery" width="100%" />
 
 ### Open-source projects
 
@@ -30,14 +30,10 @@ I've spent 20+ years taking payment platforms live inside tier-1 banks, includin
 
 ### Recent talks
 
-- **Keynote, ICICA 2026** · Intelligent Convergence: AI and Deep Learning for Real-Time Decision Intelligence
-- **Keynote, AIC 2025** · [The Convergence of AI and Fintech: Shaping the Future of Intelligent Finance](https://scrs.in/conference/aic2025/speaker/talk/1035)
-- **Speaker, Fintech Festival Tanzania** · 2025 and 2026, Dar es Salaam
-
-<sub>More on my <a href="https://rahulautade2288.github.io/talks.html">talks page</a>.</sub>
+<a href="https://rahulautade2288.github.io/talks.html"><img src="talks.svg" alt="Speaker Fintech Festival Tanzania 2025 and 2026 · Keynote ICICA 2026 · Keynote IEEE AIC 2025" width="100%" /></a>
 
 ### Toolbox
 
-`Java` `Spring Boot` `Kafka` `Python` `TypeScript` `Azure` `DataStax` `Solr` `Keycloak` `Camunda / BPMN 2.0` `GitHub Actions` `Postman` `Jira`
+<img src="toolbox.svg" alt="Java, Spring Boot, Kafka, Python, TypeScript, Azure, DataStax, Solr, Keycloak, Camunda, GitHub Actions, Postman, Swagger, Jira" width="100%" />
 
-<sub>IEEE Senior Member · Sigma Xi Full Member</sub>
+<p align="center"><sub>IEEE Senior Member · Sigma Xi Full Member · Pittsburgh, PA</sub></p>
